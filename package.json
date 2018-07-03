@@ -1,0 +1,23 @@
+{
+  "name": "match-3",
+  "version": "1.0.0",
+  "description": "game match-3",
+  "main": "index.js",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sergey19940808/match-3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sergey19940808/match-3/issues"
+  },
+  "homepage": "https://github.com/Sergey19940808/match-3#readme",
+  "dependencies": {
+    "lite-server": "^2.4.0"
+  }
+}
